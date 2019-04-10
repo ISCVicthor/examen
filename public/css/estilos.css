@@ -1,0 +1,40 @@
+div#hp
+{
+    background-color: #1a313f;
+    color: white;
+}
+div#ti
+{
+    font-size: medium;
+}
+div#h1
+{
+    font-family: "Bitstream Vera Sans";
+    font-size: small;
+}
+div#f1
+{
+    background-color: #203e4e;
+    text-align: center;
+    font-family: "Bitstream Vera Sans";
+    font-size: medium;
+}
+div#f2
+{
+    background-color: #203e4e;
+    text-align: center;
+    font-family: "Bitstream Vera Sans";
+    font-size: small;
+}
+div#let
+{
+    color: #2fa360;
+}
+div#copy
+{
+    text-align: center;
+    font-family: "Bitstream Vera Sans";
+    font-size: xx-small;
+    background-color: #19313f;
+}
+
